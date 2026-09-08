@@ -59,4 +59,6 @@ The primary goals of this data analysis project are to:
 1. Download or clone this repository to your local machine.
 2. Ensure you have Python installed along with the required analytical libraries:
    ```bash
-   pip install pandas matplotlib.pyplot numpy 
+   pip install pandas
+   pip install matplotlib.pyplot
+   pip install numpy
